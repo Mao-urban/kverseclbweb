@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'kverselibrary'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9E483B85B12A4FF488344FF45F190AA6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_70814AE0571047389115F3E1995E6D51 }}
